@@ -1,0 +1,23 @@
+{
+  "name": "caissecommune",
+  "version": "1.0.0",
+  "description": "Site internet regroupant informations sur les grèves et constitution d'une caisse commune",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amirdib/caissecommune.git"
+  },
+  "author": "Amir Dib",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amirdib/caissecommune/issues"
+  },
+  "homepage": "https://github.com/amirdib/caissecommune#readme",
+  "dependencies": {
+    "bulma": "^0.6.2",
+    "npm": "^5.7.1"
+  }
+}
